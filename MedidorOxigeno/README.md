@@ -1,5 +1,5 @@
 # MedidorOxigeno
-Proyecto de la asignatura Desarrollo de Sistemas Hardware del Máster en I.I. que desarrolla un medidor de oxígeno con Arduino.
+Proyecto de la asignatura Descripción de Sistemas Hardware del Máster en I.I. que desarrolla un medidor de oxígeno con Arduino.
 
 ### Componentes principales
 - [Placa NodeMCU](http://www.nodemcu.com/index_cn.html)

@@ -72,3 +72,7 @@ python3 dumnexUi.py [FULL]
 ```
 
 Indicandole cualquier argumento se desplegará en tamaño completo de pantalla. (OJO. Esto puede llevar después a no saber cerrar la aplicación.)
+
+### Esquema de conexiones
+
+![Esquema de conexiones](https://github.com/DSHubicom/proyecto-dsh-descripcion-de-sistemas-ubicuos-18-19-smarthelper/blob/master/DetectorBluetooth/esquema.png)
